@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aditya Sharma's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aditya Sharma
+Data Scientist, Software Engineer, Deep Learning enthusiast.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://adityashrm21.github.io">https://adityashrm21.github.io</a>
+| <a href="https://github.com/adityashrm21">My GitHub profile</a>
+| <a href="https://www.linkedin.com/in/adityashrm21/">My LinkedIn profile</a>
 </div>
 
 
